@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm Lakshay, a software engineer based in India.
+I design and build whatever I can imagine.
+If an idea pops into my head, chances are I'll build it and ship it.
+My main tech stack is html,css,javascript,react,node.js,mongodb.
+I've got a bunch of pinned projects, but my favorite is the Raasta-fix.
+I've built over 1 public repos, but privately.. it's probably more than 1 at this point.
 
-<!--
-**Lakshay783/Lakshay783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fun Facts:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a dog.
+I don't like coffee or tea.
+Naruto is my favorite anime
+Hobbies: anime, gaming, building things.
